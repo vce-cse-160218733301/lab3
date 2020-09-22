@@ -1,0 +1,181 @@
+body
+{
+    background-color: rgba(0, 140, 186, 0.5);
+}
+.img-1
+{
+    border: 1px solid #ddd;
+    border-radius: 50%;
+    padding: 10px;
+    width: 50px;
+    height: 50px;
+    float:left;
+}
+img:hover 
+{
+    box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}
+ul li
+{
+    background-color: salmon;
+    font-size: 20px;
+    padding:10px;
+    display: inline;
+    border:2px inset red;
+    border-radius: 20px;
+}
+a
+{
+    border:10px purple;
+    text-align: center;
+    padding: 15px;
+    color:blue;
+    text-decoration: none;
+}
+.headersection
+{
+    border:5px outset purple;
+    border-radius:30px;
+    background-color: turquoise;
+    padding:25px;
+}
+.listsection
+{
+    border:5px outset purple;
+    border-radius:30px;
+    background-color: turquoise;
+    
+    padding:15px;
+}
+.whole
+{
+    border:5px outset red;
+    border-radius:30px;
+    background-color: turquoise;
+}
+h1
+{
+    font-family:"monospace";
+    font-size:30px;
+    color:red;
+}
+.img-2
+{
+    border:5px outset purple;
+    border-radius:50%;
+    background-color: yellow;
+    padding:50px;
+    height:100px;
+    width: 100px;
+    
+}
+.img-3
+{
+    border:5px outset purple;
+    border-radius:50%;
+    background-color:yellow;
+    padding:50px;
+    height:100px;
+    width: 100px;
+    
+}
+.img-4
+{
+    border:5px outset purple;
+    border-radius:50%;
+    background-color: yellow;
+    padding:50px;
+    height:100px;
+    width: 100px;
+    
+}
+.img-5
+{
+    border:5px outset purple;
+    border-radius:50%;
+    background-color: yellow;
+    padding:50px;
+    height:100px;
+    width: 100px;
+    
+}
+.img-6
+{
+    border:5px outset purple;
+    border-radius:50%;
+    background-color: yellow;
+    padding:50px;
+    height:100px;
+    width: 100px;
+    
+}
+.img-7
+{
+    border:5px outset purple;
+    border-radius:50%;
+    background-color: yellow;
+    padding:50px;
+    height:100px;
+    width: 100px;
+    
+}
+.img-8
+{
+    border:5px outset purple;
+    border-radius:50%;
+    background-color: yellow;
+    padding:50px;
+    height:100px;
+    width: 100px;
+    
+}
+.img-9
+{
+    border:5px outset purple;
+    border-radius:50%;
+    background-color: yellow;
+    padding:50px;
+    height:100px;
+    width: 100px;
+    
+}
+.img-10
+{
+    border:5px outset purple;
+    border-radius:50%;
+    background-color: yellow;
+    padding:50px;
+    height:100px;
+    width: 100px;
+    
+}
+.img-11
+{
+    border:5px outset purple;
+    border-radius:50%;
+    background-color: yellow;
+    padding:50px;
+    height:100px;
+    width: 100px;
+    
+}
+.img-12
+{
+    border:5px outset purple;
+    border-radius:50%;
+    background-color: yellow;
+    padding:50px;
+    height:100px;
+    width: 100px;
+    
+}
+.img-13
+{
+    border:5px outset purple;
+    border-radius:50%;
+    background-color: yellow;
+    padding:50px;
+    height:100px;
+    width: 100px;
+    
+}
